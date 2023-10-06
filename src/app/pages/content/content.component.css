@@ -21,7 +21,9 @@
 }
 
 .content_description > p {
+  margin-top: 20px;
   color: gray;
+
 }
 
 .content_description > a {
